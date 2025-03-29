@@ -1506,7 +1506,7 @@ namespace pvpgn
 				return 0;
 			}
 
-			std::string key("Record\\" + tag_uint_to_str2(clienttag) + "\\0\\diablo kills");
+			std::string key("Record\\" + tag_uint_to_str2(clienttag) + "\\0\\diablo_kills");
 
 			return account_get_numattr(account, key.c_str());
 		}
@@ -1520,7 +1520,7 @@ namespace pvpgn
 				return -1;
 			}
 
-			std::string key("Record\\" + tag_uint_to_str2(clienttag) + "\\0\\diablo kills");
+			std::string key("Record\\" + tag_uint_to_str2(clienttag) + "\\0\\diablo_kills");
 
 			return account_set_numattr(account, key.c_str(), diablo_kills);
 		}
