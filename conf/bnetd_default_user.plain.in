@@ -54,7 +54,7 @@
 # Diablo Retail stats
 "BNET\\Record\\DRTL\\0\\level"="0"
 "BNET\\Record\\DRTL\\0\\class"="99"
-"BNET\\Record\\DRTL\\0\\diablo kills"="0"
+"BNET\\Record\\DRTL\\0\\diablo_kills"="0"
 "BNET\\Record\\DRTL\\0\\strength"="0"
 "BNET\\Record\\DRTL\\0\\magic"="0"
 "BNET\\Record\\DRTL\\0\\dexterity"="0"

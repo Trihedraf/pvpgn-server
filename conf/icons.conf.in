@@ -187,7 +187,7 @@ magic = "Record\DRTL\0\magic"
 vitality = "Record\DRTL\0\vitality"
 strength = "Record\DRTL\0\strength"
 gold = "Record\DRTL\0\gold"
-diablo_kills = "Record\DRTL\0\diablo kills"
+diablo_kills = "Record\DRTL\0\diablo_kills"
 username = "BNET\acct\username"
 
 [icons]

@@ -589,7 +589,7 @@ extern int main(int argc, char * argv[])
 				packet_append_string(packet, "BNET\\Record\\DRTL\\0\\dexterity");
 				packet_append_string(packet, "BNET\\Record\\DRTL\\0\\vitality");
 				packet_append_string(packet, "BNET\\Record\\DRTL\\0\\gold");
-				packet_append_string(packet, "BNET\\Record\\DRTL\\0\\diablo kills");
+				packet_append_string(packet, "BNET\\Record\\DRTL\\0\\diablo_kills");
 				count += 8;
 			}
 		}
