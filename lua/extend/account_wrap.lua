@@ -469,10 +469,10 @@ function account_set_normal_class(username, value)
 end
 
 function account_get_normal_diablo_kills(username)
-	return api.account_get_attr(username, "Record\\DRTL\\0\\diablo kills", attr_type_num)
+	return api.account_get_attr(username, "Record\\DRTL\\0\\diablo_kills", attr_type_num)
 end
 function account_set_normal_diablo_kills(username, value)
-	return api.account_set_attr(username, "Record\\DRTL\\0\\diablo kills", attr_type_num, value)
+	return api.account_set_attr(username, "Record\\DRTL\\0\\diablo_kills", attr_type_num, value)
 end
 
 function account_get_normal_strength(username)
